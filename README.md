@@ -6,4 +6,6 @@ The legs slide into slots in the upper horizontal brace.  It's a snug fit.  Afte
 
 The bottom horizontal bracket is not really necessary, but it does provide some structural strength as well as making it look more finished.  I used M3 x 4mm sheet metal screws with a washer.  I always use stainless steel where I can, especially on something like this that is in the vicinity of water.
 
-The stand holds the bowl 90mm off the floor.  The bowl this is made for is a Pyrex 950ml (1qt/4-cup) that you find with the 7201 lid.  
+The stand holds the bowl 90mm off the floor.  
+
+The bowl this is made for is a Pyrex 950ml (1qt/4-cup) that you find with the 7201 lid.  
